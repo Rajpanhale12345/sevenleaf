@@ -117,7 +117,7 @@ const LandingPage = () => {
               }}
             >
               WE'RE{" "}
-              <span style={{ color: "#E1AE52", fontSize: "30px" }}>
+              <span style={{ color: "#E1AE52", fontSize: "32px" }}>
                 COMING SOON
               </span>
             </h2>
